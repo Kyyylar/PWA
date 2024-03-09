@@ -9,7 +9,7 @@
     "description" : "Strona projektowa WSB Merito - Park Narodowy",
     "icons": [
         {
-            "src": "./logo.png",
+            "src": "./icon.png",
             "sizes": "512x512",
             "type": "png"
         }
