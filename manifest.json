@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#417505",
+    "background_color" : "#417505",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA",
+    "name" : "Blog o Parku Narodowym",
+    "short_name" : "ParkApp",
+    "description" : "Strona projektowa WSB Merito - Park Narodowy",
+    "icons": [
+        {
+            "src": "./logo.png",
+            "sizes": "512x512",
+            "type": "png"
+        }
+    ]
+}
